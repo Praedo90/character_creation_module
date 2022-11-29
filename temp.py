@@ -1,5 +1,4 @@
-def we_crash_all(name: str) -> str:
-    return 'Привет, ' + name + ', мы всё сломали!'
+import math
 
-
-print(we_crash_all('Наташа'))
+# Спросим, что хорошего в этой библиотеке.
+print(print.__doc__)
